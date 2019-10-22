@@ -180,7 +180,7 @@ export default theme => ({
         display: 'block',
         padding: 0,
         margin: 0,
-        fontFamily: 'Roboto',
+        fontFamily: 'MicrosoftYaHei',
         fontWeight: 'lighter',
         color: 'white',
         overflow: 'hidden',

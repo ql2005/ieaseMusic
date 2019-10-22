@@ -151,7 +151,7 @@ export default theme => ({
             marginTop: 0,
             marginBottom: 12,
             fontSize: 14,
-            fontFamily: 'Roboto',
+            fontFamily: 'MicrosoftYaHei',
             fontWeight: 'lighter',
             color: '#4a4a4a',
             textTransform: 'uppercase',
@@ -162,7 +162,7 @@ export default theme => ({
 
     list: {
         flex: 1,
-        fontFamily: 'Roboto',
+        fontFamily: 'MicrosoftYaHei',
         color: '#a2a2a2',
 
         '& header': {
@@ -176,7 +176,7 @@ export default theme => ({
             '& span': {
                 width: 67.5,
                 borderBottom: '2px solid #000',
-                fontFamily: 'Roboto',
+                fontFamily: 'MicrosoftYaHei',
                 textTransform: 'uppercase',
                 letterSpacing: 1,
             },

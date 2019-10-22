@@ -129,7 +129,7 @@ export default theme => ({
         padding: 0,
         margin: 0,
         backgroundImage: 'linear-gradient(110deg, rgb(255, 103, 0) 0%, rgb(255, 45, 240) 100%)',
-        fontFamily: 'Roboto',
+        fontFamily: 'MicrosoftYaHei',
         fontWeight: 'lighter',
         color: 'white',
         overflow: 'hidden',

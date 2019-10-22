@@ -58,13 +58,13 @@ export default theme => {
                 margin: 0,
                 marginTop: 2,
                 fontSize: 12,
-                fontFamily: 'Roboto',
+                fontFamily: 'MicrosoftYaHei',
                 fontWeight: 'normal',
                 color: 'gray',
             },
 
             '& section': {
-                fontFamily: 'Roboto',
+                fontFamily: 'MicrosoftYaHei',
                 fontSize: 14,
                 padding: 32,
                 paddingTop: 24,

@@ -154,7 +154,7 @@ export default theme => ({
             margin: '5px 0 1px',
 
             '& + span': {
-                fontFamily: 'Roboto',
+                fontFamily: 'MicrosoftYaHei',
                 fontSize: 12,
                 textTransform: 'uppercase',
             }

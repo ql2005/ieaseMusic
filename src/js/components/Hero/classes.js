@@ -162,7 +162,7 @@ export default theme => ({
         marginTop: 24,
         letterSpacing: 1,
         textTransform: 'uppercase',
-        fontFamily: 'Roboto',
+        fontFamily: 'MicrosoftYaHei',
         fontSize: 12,
         color: '#fff',
         background: colors.pallet.dribbble,

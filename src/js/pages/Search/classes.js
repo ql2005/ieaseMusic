@@ -39,7 +39,7 @@ export default theme => ({
             height: 35,
             borderBottom: '1px solid #fff',
             fontSize: 14,
-            fontFamily: 'Roboto',
+            fontFamily: 'MicrosoftYaHei',
             fontWeight: 'lighter',
             letterSpacing: .5,
             color: '#fff',

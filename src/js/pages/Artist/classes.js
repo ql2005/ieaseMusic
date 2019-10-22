@@ -82,7 +82,7 @@ export default theme => ({
             display: 'inline-block',
             marginRight: 32,
             padding: '5px 16px',
-            fontFamily: 'Roboto',
+            fontFamily: 'MicrosoftYaHei',
             fontSize: 12,
             color: '#000',
             borderRadius: 32,
@@ -135,7 +135,7 @@ export default theme => ({
         '& header': {
             margin: '0 32px',
             paddingTop: 8,
-            fontFamily: 'Roboto',
+            fontFamily: 'MicrosoftYaHei',
             fontSize: 12,
             borderBottom: '2px solid #ddd'
         },
