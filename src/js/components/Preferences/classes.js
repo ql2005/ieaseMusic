@@ -14,7 +14,7 @@ export default theme => {
             alignItems: 'center',
             padding: 24,
             paddingBottom: 0,
-            fontFamily: 'HelveticaNeue-UltraLight',
+            fontFamily: 'Cascadia Code',
             fontSize: 24,
             fontWeight: '100',
             color: '#000',
@@ -45,7 +45,7 @@ export default theme => {
 
             '& h3': {
                 marginTop: 32,
-                fontFamily: 'HelveticaNeue-UltraLight',
+                fontFamily: 'Cascadia Code',
                 fontSize: 18,
                 fontWeight: '100',
                 color: '#000',
@@ -115,7 +115,7 @@ export default theme => {
             border: 'none',
             borderRadius: 1,
             background: colors.pallet.primary,
-            fontFamily: 'Helvetica Neue',
+            fontFamily: 'Cascadia Code',
             fontWeight: '300',
             color: '#fff',
             outline: 0,

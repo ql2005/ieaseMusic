@@ -61,7 +61,7 @@ export default theme => ({
     },
 
     name: {
-        fontFamily: 'HelveticaNeue-UltraLight',
+        fontFamily: 'Cascadia Code',
         fontSize: 36,
 
         '& a, & span': {
@@ -235,7 +235,7 @@ export default theme => ({
             display: '-webkit-box',
             maxWidth: 270,
             flex: .5,
-            fontFamily: 'HelveticaNeue',
+            fontFamily: 'Cascadia Code',
             fontSize: 14,
             color: '#654b58',
             whiteSpace: 'normal',
@@ -342,7 +342,7 @@ export default theme => ({
         height: '100%',
         justifyContent: 'space-around',
         alignItems: 'center',
-        fontFamily: 'HelveticaNeue-UltraLight',
+        fontFamily: 'Cascadia Code',
         fontSize: 24,
         letterSpacing: 1,
         wordSpacing: 3,

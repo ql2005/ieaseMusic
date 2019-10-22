@@ -24,7 +24,7 @@ export default theme => ({
             height: 40,
             lineHeight: '40px',
             width: '100%',
-            fontFamily: 'HelveticaNeue-UltraLight',
+            fontFamily: 'Cascadia Code',
             fontSize: 24,
             border: 0,
             outline: 0,

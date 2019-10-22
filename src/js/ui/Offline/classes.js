@@ -14,7 +14,7 @@ export default theme => {
             flexDirection: 'column',
             alignItems: 'center',
             background: 'white',
-            fontFamily: 'HelveticaNeue-UltraLight',
+            fontFamily: 'Cascadia Code',
 
             '& h1': {
                 fontSize: 40,

@@ -20,19 +20,22 @@ export default theme => ({
             color: 'inherit !important',
         },
 
-        '& nav a:after': {
-            content: '""',
-            position: 'absolute',
-            left: 0,
-            bottom: 0,
-            height: 20,
-            width: 0,
-            background: colors.pallet.dribbble,
-            transform: 'translateY(10px)',
-            opacity: 0,
-            transition: '.2s ease-out',
-            zIndex: -1,
+        '& nav a:hover': {
+            textShadow: `2px 2px 8px #eee`
         },
+        // '& nav a:after': {
+        //     content: '""',
+        //     position: 'absolute',
+        //     left: 0,
+        //     bottom: 0,
+        //     height: 20,
+        //     width: 0,
+        //     background: colors.pallet.dribbble,
+        //     transform: 'translateY(10px)',
+        //     opacity: 0,
+        //     transition: '.2s ease-out',
+        //     zIndex: -1,
+        // },
 
         '& nav a:hover:after, & nav $playing:after': {
             opacity: 1,
@@ -64,7 +67,7 @@ export default theme => ({
         display: 'flex',
         flexDirection: 'column',
         justifyContent: 'space-between',
-        fontFamily: 'HelveticaNeue',
+        fontFamily: 'Cascadia Code',
         fontWeight: 'lighter',
         transform: 'translateY(-3px)',
 

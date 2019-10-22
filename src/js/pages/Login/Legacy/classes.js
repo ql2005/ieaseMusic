@@ -19,7 +19,7 @@ export default theme => ({
         },
 
         '& h1': {
-            fontFamily: 'HelveticaNeue-UltraLight',
+            fontFamily: 'Cascadia Code',
             fontWeight: 'lighter',
             fontSize: 44,
             letterSpacing: 2,

@@ -14,7 +14,7 @@ export default theme => ({
         height: '100vh',
         width: '40vw',
         paddingLeft: 78,
-        fontFamily: 'HelveticaNeue-UltraLight',
+        fontFamily: 'Cascadia Code',
         background: '#fff',
         boxShadow: '0 30px 80px 0 rgba(97, 45, 45, .25)',
         zIndex: 999,
@@ -43,24 +43,28 @@ export default theme => ({
             cursor: 'pointer',
         },
 
-        '& a:after': {
-            content: '""',
-            position: 'absolute',
-            left: 0,
-            bottom: 0,
-            height: 1,
-            width: 100,
-            background: '#000',
-            transform: 'translateX(-160px) translateY(-11px)',
-            opacity: 0,
-            transition: '.2s ease-out',
-        },
-
-        '& a:hover:after': {
-            width: 160,
-            opacity: 1,
-            transform: 'translateX(-100px) translateY(-11px)',
+        '& a:hover': {
+            textShadow: `2px 2px 8px #333`
         }
+
+        // '& a:after': {
+        //     content: '""',
+        //     position: 'absolute',
+        //     left: 0,
+        //     bottom: 0,
+        //     height: 20,
+        //     width: 100,
+        //     background: '#000',
+        //     // transform: 'translateX(-160px) translateY(-11px)',
+        //     opacity: 0,
+        //     transition: '.2s ease-out',
+        // },
+
+        // '& a:hover:after': {
+        //     width: 160,
+        //     opacity: .3,
+        //     // transform: 'translateX(-100px) translateY(-11px)',
+        // }
     },
 
     profile: {

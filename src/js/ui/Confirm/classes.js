@@ -14,7 +14,7 @@ export default theme => {
             background: 'white',
 
             '& h2': {
-                fontFamily: 'HelveticaNeue-UltraLight',
+                fontFamily: 'Cascadia Code',
                 fontSize: 24,
                 letterSpacing: 2,
                 color: 'black',

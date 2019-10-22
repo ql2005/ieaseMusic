@@ -272,7 +272,7 @@ export default theme => ({
         display: 'flex',
         justifyContent: 'space-around',
         alignItems: 'center',
-        fontFamily: 'HelveticaNeue-UltraLight',
+        fontFamily: 'Cascadia Code',
         fontSize: 24,
         letterSpacing: 1,
         wordSpacing: 3,

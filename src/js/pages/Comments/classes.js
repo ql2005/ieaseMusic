@@ -14,7 +14,7 @@ export default theme => ({
 
         '& h3': {
             paddingBottom: 4,
-            fontFamily: 'HelveticaNeue-UltraLight',
+            fontFamily: 'Cascadia Code',
             fontSize: 24,
             fontWeight: 'lighter',
             borderBottom: 'thin solid white',

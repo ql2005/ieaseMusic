@@ -469,16 +469,16 @@ const goodbye = () => {
 
 const createMainWindow = () => {
     var mainWindowState = windowStateKeeper({
-        defaultWidth: 800,
-        defaultHeight: 520,
+        defaultWidth: 1032,
+        defaultHeight: 670,
     });
 
     mainWindow = new BrowserWindow({
         x: mainWindowState.x,
         y: mainWindowState.y,
         show: false,
-        width: 800,
-        height: 520,
+        width: 1032,
+        height: 670,
         resizable: false,
         maximizable: false,
         fullscreenable: false,

@@ -76,7 +76,7 @@ export default theme => ({
 
     placeholder: {
         paddingTop: '20vh',
-        fontFamily: 'HelveticaNeue-UltraLight',
+        fontFamily: 'Cascadia Code',
         fontSize: 32,
         letterSpacing: 1,
         wordSpacing: 3,

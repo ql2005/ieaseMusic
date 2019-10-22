@@ -16,7 +16,7 @@ export default theme => {
             marginTop: -40,
 
             '& h2': {
-                fontFamily: 'HelveticaNeue-UltraLight',
+                fontFamily: 'Cascadia Code',
                 fontSize: 24,
                 letterSpacing: 2,
             },
